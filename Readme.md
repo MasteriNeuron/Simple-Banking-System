@@ -1,4 +1,5 @@
 # Simple Banking System
+![graphic-cartoon-character-online-banking-vector-37518675](https://github.com/user-attachments/assets/7d01733d-532b-45da-8eb0-8eec3b58ece9)
 
 ## Overview
 The Simple Banking System is a Python-based program that provides a basic banking functionality. Users can create accounts, check balances, deposit and withdraw money, and exit the system. This project demonstrates the use of core Python concepts such as dictionaries, loops, conditionals, error handling, and user input.
