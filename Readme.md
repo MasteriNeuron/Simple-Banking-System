@@ -220,7 +220,28 @@ Exiting the system. Thank you for using Simple Banking System!
 ```
 
 ---
+## Limitations:
 
+**No Persistent Storage:** 
+
+- Account data is stored in memory and will be lost when the program exits.
+
+**Single User Interface:**
+
+- Only one user can interact with the system at a time.
+
+**Basic Validation:**
+
+- Limited error checking for names and account details.
+
+**No Security Features:**
+
+- No passwords or authentication mechanisms are implemented.
+
+**Limited Scalability:**
+
+- Designed for small-scale usage with a few accounts.
+---
 ## License
 This project is released under the MIT License.
 
