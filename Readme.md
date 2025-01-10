@@ -34,7 +34,7 @@ The Simple Banking System is a Python-based program that provides a basic bankin
 ---
 
 ## Installation
-1. Clone or download the project to your local machine.
+1. Clone or download the project to your local machine. link[https://github.com/MasteriNeuron/Simple-Banking-System.git]
 2. Open the terminal (or command prompt) and navigate to the project directory.
 3. Run the program by typing:
 
